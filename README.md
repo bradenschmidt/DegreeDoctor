@@ -8,8 +8,6 @@ CMPT 370 Group Project
 * Lealand Adam 
 
 
-Degree Doctor - A class registration helper for University students.
-
 ## What's The Problem?
 Every year students spend hours and hours planning for registration day taking way longer than necessary.
 
@@ -17,6 +15,8 @@ Every year students spend hours and hours planning for registration day taking w
 Streamline the process of degree planning by centralizing information that is easy to interpret.
 
 ## Our Solution
+Degree Doctor - A class registration helper for University students.
+
 <img src="https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/constructProfile.png" height="400px" alt="Construct Profile Popup" />
 <img src="https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/selectClasses2.png" height="400px" alt="Select Classes" />
 <img src="https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/exploreClasses.png" height="400px" alt="Explore Classes" />
