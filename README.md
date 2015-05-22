@@ -17,7 +17,8 @@ Every year students spend hours and hours planning for registration day taking w
 Streamline the process of degree planning by centralizing information that is easy to interpret.
 
 # Our Solution
-![alt text](https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/constructProfile.png =250x "Construct Profile Popup")
+![alt text]( =250x "Construct Profile Popup")
+<img src="https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/constructProfile.png" width="200px" alt="Construct Profile Popup" />
 ![alt text](https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/degreeRequirements.png "Degree Requirements")
 ![alt text](https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/exploreClasses.png "Explore Classes")
 ![alt text](https://github.com/bradenschmidt/DegreeDoctor/blob/master/screenshots/navDrawer.png "Navigation Drawer")
